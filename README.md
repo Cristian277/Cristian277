@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Cristian's github stats](https://github-readme-stats.vercel.app/api?username=Cristian277)](https://github.com/cristian277/github-readme-stats)
+
 <!--
 **Cristian277/Cristian277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
