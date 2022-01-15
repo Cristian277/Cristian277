@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 [![Cristian's github stats](https://github-readme-stats.vercel.app/api?username=Cristian277)](https://github.com/cristian277/github-readme-stats)
 
