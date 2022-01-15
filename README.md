@@ -8,11 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian277&layout=compact)
 
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/cristian-arredondo-b84665223/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+https://linkedin-github.herokuapp.com/api/render/Cristian/Software%20Engineer/Graduate/Bachelors%20Degree/light-blue/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F54790214%3Fv%3D4
                                                                                               
 <!--
 **Cristian277/Cristian277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
