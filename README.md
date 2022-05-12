@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian277&layout=compact)
 
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Cristian%20Arredondo/Software%20Engineer/Graduate/Bachelors%20Degree/light-blue/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F54790214%3Fv%3D4)](https://www.linkedin.com/in/cristian-arredondo-b84665223/)
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Cristian%20Arredondo/Software%20Engineer/Bachelors%20Degree/light-blue/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F54790214%3Fv%3D4)](https://www.linkedin.com/in/cristian-arredondo-b84665223/)
                                                                                               
 <!--
 **Cristian277/Cristian277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
